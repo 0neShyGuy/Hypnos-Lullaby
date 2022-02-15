@@ -24,37 +24,7 @@ class UnownSubState extends MusicBeatSubstate
 	var realWord:String = '';
 	var position:Int = 0;
 	var words:Array<String> = [
-		'IM DEAD',
-		'EERIE NOISE',
-		'LEAVE HURRY',
-		'HE DIED',
-		'DYING',
-		'PERISH SONG',
-		'FRUSTRATION',
-		'GOLD',
-		'SILVER',
-		'DONT BELONG',
-		'ABANDONED',
-		'BOO!',
-		'NOT WANTED',
-		'TIRESOME',
-		'USELESS',
-		'GRUESOME',
-		'NIGHTMARE',
-		'GET OUT',
-		'HOPELESS',
-		'RUN STREAMER',
-		'NOT WELCOME',
-		'CAN YOU SEE?',
-		'WHERE?',
-		'FERALIGATR',
-		'HELP',
-		'XXXXX',
-		'GOODBYE',
-		'CELEBI DIED',
-		'IT FAILED',
-		'I SEE YOU',
-		'HIPPOPOTAMUS'
+		'UR MOMTHER QWERTYUIOPASDFGHJKLZXCVBNM'
 	];
 	var onePercentWords:Array<String> = [
 		'NICE COCK',
